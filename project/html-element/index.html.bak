@@ -22,13 +22,35 @@
     			</abbr>
     		</p>
     	</li>
+    	<li>address
+    		<p>地址:
+    			<address>
+    				link to <a href="http://www.uxsino.com">uxsino</a>
+    				contact uxsino@uxsino.com
+    			</address>
+    		</p>
+    	</li>
+    
+    </ul>
+    
+    <h2>I</h2>
+    <ul>
+    	<li>img
+    		<img src="images/life.jpg" border="0" usemap="#mylife" alt="life" />
+
+				<map name="mylifeme" id="mylife">
+  				<area shape="circle" coords="190,130,30" href ="mylife/mylife.html" alt="mylife" />
+  				<area shape="rect" coords="0,30,100,230" href ="mylife/tree.html" alt="tree" />
+				</map>
+    	</li>
+    	
     
     </ul>
     
     <h2>S</h2>
     <ul>
     	<li>select
-    		<select name="select">
+    		<select name="select-option">
     			<option value="red">红</option>
     			<option value="black">黑</option>
     			<option value="blue" selected>蓝</option>
